@@ -1,4 +1,4 @@
-4OFFICE BREAKDOWN
+OFFICE BREAKDOWN
 A 2D stickman game about the chaos of office life.
 
 OFFICE BREAKDOWN is a browser-based game project featuring minimalist stickman characters, an office-themed arena, and local two-player combat.

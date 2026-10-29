@@ -1,6 +1,8 @@
 OFFICE BREAKDOWN
 A 2D stickman game about the chaos of office life.
 
+Playable Link for the game is: https://srikarexe.github.io/Office-Breakdown/Office%20Breakdown.html
+
 OFFICE BREAKDOWN is a browser-based game project featuring minimalist stickman characters, an office-themed arena, and local two-player combat.
 Game Modes
 LAYOFF LEGENDS
